@@ -1,5 +1,5 @@
 
-Language predictor using __. Predicts each character based on 40 previous characters.
+Language predictor using Markov chain in machine learning. Predicts each character based on 40 previous characters.
 
 Here is an example, were the algorithm has learnt from the book "Warbreaker" by Brandon Sanderson.
 
